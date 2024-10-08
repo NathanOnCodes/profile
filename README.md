@@ -12,6 +12,6 @@
 
 
 
-** Thanks to [Yuji Sato](https://github.com/yujisatojr)** 
+**Thanks to [Yuji Sato](https://github.com/yujisatojr)** 
 ## Features
 
