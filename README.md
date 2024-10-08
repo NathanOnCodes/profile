@@ -12,6 +12,6 @@
 
 
 
-**Thanks to [Yuji Sato](https://github.com/yujisatojr)** 
+**Portfolio template inspired by [Yuji Sato](https://github.com/yujisatojr) thanks, all the blessings to you!** 
 ## Features
 
