@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/profile/static/css/main.e9839526.css",
+    "main.js": "/profile/static/js/main.42aa1e50.js",
+    "static/js/453.f12206d8.chunk.js": "/profile/static/js/453.f12206d8.chunk.js",
+    "static/media/bg-light.png": "/profile/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/mockcarserv.png": "/profile/static/media/mockcarserv.17de08423fac3bbfe90f.png",
+    "static/media/mockbeyond .png": "/profile/static/media/mockbeyond .30f8bc548257f0e0eba0.png",
+    "static/media/bg-dark.png": "/profile/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/mockmotion.png": "/profile/static/media/mockmotion.3b5067f9cb4a3b98fe9b.png",
+    "static/media/mocknomoremeet.png": "/profile/static/media/mocknomoremeet.196cca354b661f191038.png",
+    "index.html": "/profile/index.html",
+    "main.e9839526.css.map": "/profile/static/css/main.e9839526.css.map",
+    "main.42aa1e50.js.map": "/profile/static/js/main.42aa1e50.js.map",
+    "453.f12206d8.chunk.js.map": "/profile/static/js/453.f12206d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9839526.css",
+    "static/js/main.42aa1e50.js"
+  ]
+}
