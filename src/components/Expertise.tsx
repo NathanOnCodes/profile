@@ -59,7 +59,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faPython} size="3x"/>
                     <h3>Desenvolvedor Full-stack</h3>
-                    <p>Tenho experiência e conhecimento em Django, React.js, Next.js, Spring Boot, SQL PostgreSQL, Git, Docker, Deploy em servidores linux e padrões de design de software como TDD, DRY, KISS, YAGNI, LoD e SOLID.</p>
+                    <p>Tenho experiência e conhecimento em Node.js, Typescript, Nest.js, Python, Django, React.js, Next.js, SQL PostgreSQL, Git, Docker, Deploy em cloud e padrões de design de software como TDD, DRY, KISS e SOLID.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsFirst.map((label, index) => (
